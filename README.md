@@ -8,4 +8,6 @@ type based on their release point and the count in which the pitch was thrown. T
 ## Data Source
 Data was gathered by using the pybaseball library which scrapes pitch-by-pitch data from Fangraphs and Baseball Savant
 ## Applications
-
+I believe that this model could be very useful for MLB teams for both hitters and pitchers. For hitters it can be used to identify pitchers that have distinct
+differences in release point. Hitters can the review tape and study their release points to better identify what pitch that pitcher will throw. 
+For pitchers, it can be used as a warning flag to tell them that they need to try and replicate their release points better. 
