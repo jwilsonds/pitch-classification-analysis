@@ -1,5 +1,3 @@
 # pitch-classification-analysis
-This repository contains all the code for my MLB pitch classification analysis that I posted on Medium
-The file 'Paddack and Verlander Classification' contains the code I used to test out the model and get the release point plot for Verlander
-The file 'Sean Manaea Classification' contains the code I used to test the model and get his release point plot
-The file 'Pitch Classification Model' contains the function I created to run the actual model and the code for calculating the precision scores for 16 MLB players
+This repository contains all the code for my MLB pitch classification analysis that I posted on [Medium](https://towardsdatascience.com/measuring-how-well-pitchers-hide-their-pitches-f61f076d91f4?source=friends_link&sk=be1b11123ccefe7174183e8cc67bf649)
+
